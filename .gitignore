@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # Data extracted from the Wikipedia dump using WikiExtractor
-output/
+extracted/

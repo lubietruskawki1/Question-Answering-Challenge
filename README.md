@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Make sure you have Docker installed. Run the following command in your terminal to set up a single-node local cluster in Docker:
 
 ```bash
-curl -fsSL https://elastic.co/start-local | sh
+docker-compose up
 ```
 
 #### Download the Wikipedia Dump
